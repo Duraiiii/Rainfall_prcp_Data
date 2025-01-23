@@ -1,0 +1,9 @@
+Project Desciption:
+This project is exploring the Rainfall data of the timeline January 1991 to October 2024.
+
+- The Data source from the station Madras-Minambakam.
+- Concatinate the all csv files and visualising by the bar chart.
+- Finds which year is the lowest and highest rainfall recorded.
+- Finds the average rainfall of the each month on the timeline (1991 to 2024)
+
+Note: "PRCP" in rainfall data stands for "precipitation," meaning it represents the amount of rain (or any form of precipitation like snow or sleet) that has fallen in a given location over a specific period of time, usually measured in millimeters or inches.
